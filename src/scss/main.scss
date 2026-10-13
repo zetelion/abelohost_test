@@ -1,0 +1,15 @@
+$font-family: Roboto, Verdana, Arial, sans-serif;
+$color-text: #222;
+$color-background: #fff;
+
+body {
+    margin: 0;
+    font-family: $font-family;
+    color: $color-text;
+    background: $color-background;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 16px;
+}
